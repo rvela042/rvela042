@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Robert
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and TypeScript 
-- 💞️ I’m looking to collaborate on projects with everyone
-- 📫 How to reach me rvela042@fiu.edu
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
