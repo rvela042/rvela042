@@ -54,7 +54,7 @@
 ## 3D Contribution Calendar 📅
 <br>
 <p align='center'>
-<img src="./profile-3d-contrib/profile-night-view.svg">
+to be inserted
 </p>
 <hr>
 <br>
