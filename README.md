@@ -11,7 +11,7 @@
 <br>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=rvela042">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/rvela042b?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/rvela042.svg?style=social&label=Follow&maxAge=2592000)">&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
 </p>
 <br>
