@@ -175,23 +175,13 @@
 <p>
 
 <hr>
-<br>
-
-## Just a snake eating my contributions 🐍
-<p align='center'>
-to be inserted
-</p>
-
-<hr>
-<br>
 
 <br>
 <h2 align='center'>Support Me By Follwing or Starring ⭐ Some Of My Repositories!</h2>
-<br>
 
 <p align='center'>
-to be inserted
-<br>
+<img src="https://github.com/rvela042/rvela042/raw/output/github-contribution-grid-snake.svg">
+</p>
 
 <h2 align='center'>Thank You!!</h2>
 <br>
