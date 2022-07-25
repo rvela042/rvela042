@@ -183,6 +183,13 @@
 <img src="https://github.com/rvela042/rvela042/raw/output/github-contribution-grid-snake.svg">
 </p>
 
+  <h6>
+    <strong>
+      <em>For Fun: Please enjoy this snake eating my contributions away!🐍
+      <em />
+    <strong/>
+  </h6>
+
 <h2 align='center'>Thank You!!</h2>
 <br>
 <p align="center">
