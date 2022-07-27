@@ -145,16 +145,6 @@
 </p>
 <br>
 
-### IOT 🔌 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="410" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-</p>
-<br>
-
 ### Operating Systems 🐧 :
 <br>
 <p align='center'>
@@ -181,18 +171,20 @@
 <h2 align='center'>Support Me By Follwing or Starring ⭐ Some Of My Repositories!</h2>
 
 <p align='center'>
-<img src="https://github.com/rvela042/rvela042/raw/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/rvela042/rvela042/raw/output/github-contribution-grid-snake.svg">
 </p>
 
   <h6>
     <strong>
-      <em>For Fun: Please enjoy this snake eating my contributions away!🐍
-      <em />
-    <strong/>
+      <em>
+        For Fun: Please enjoy this snake eating my contributions away!🐍
+      </em>
+    </strong>
   </h6>
 
 <h2 align='center'>Thank You!!</h2>
 <br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p>
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+  </p>
+</br>
