@@ -90,6 +90,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=robertvela123&cover_image=true&theme=novatorem&show_offline=false&background_color=c0c0c0&bar_color=ea0af5&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=robertvela123&redirect=true)
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=rvela042&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/rvela042/rvela042?color=purple&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=rvela042&style=plastic&label=Views">
 </p>
