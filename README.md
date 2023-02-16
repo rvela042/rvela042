@@ -3,6 +3,7 @@
 <table align="right">
  <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" height="13"> English</a></td></tr>
  <tr><td><a href="README_es.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" height="13"> Español</a></td></tr>
+ <tr><td><a href="README_jp.md"><img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" height="13"> 日本</a></td></tr>
 
 </table>
 
