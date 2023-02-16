@@ -8,7 +8,8 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Third-year student at [FIU](https://www.fiu.edu/) (Florida International University) \
+&nbsp;&nbsp;&nbsp;:school: &nbsp;Third-year student at [FIU](https://www.fiu.edu/) (Florida International University) \
+&nbsp;&nbsp;&nbsp;:camera: &nbsp;Director of Media Relations at [INIT at FIU](https://www.linkedin.com/company/init-fiu/) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love science, building, and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about Back-end and Site Reliability.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying C, UNIX, and SQL.\
