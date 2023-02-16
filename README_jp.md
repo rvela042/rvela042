@@ -10,7 +10,7 @@
 ### :space_invader: &nbsp;私の自伝：
 
 &nbsp;&nbsp;&nbsp;:school: &nbsp;[FIU](https://www.fiu.edu/)(フロリダ国際大学) 3 年生 \
-&nbsp;&nbsp;&nbsp;:camera: &nbsp;[INIT at FIU](https://www.linkedin.com/company/init-fiu/) のメディアリレーションズディレクター \
+&nbsp;&nbsp;&nbsp;:camera: &nbsp;[INIT at FIU](https://jp.linkedin.com/company/init-fiu/) のメディアリレーションズディレクター \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;科学、建築、革新が大好きです。\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; バックエンドとサイトの信頼性に情熱を注いでいます。\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;現在 C、UNIX、SQL を勉強中。\
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="mailto:rvela042@fiu.edu?subject=GitHub からのメッセージ"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/velasquezrobert/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jp.linkedin.com/in/velasquezrobert/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
 
