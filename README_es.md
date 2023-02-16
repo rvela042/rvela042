@@ -10,7 +10,7 @@
 ### :space_invader: &nbsp;Mi Autobiografía:
 
 &nbsp;&nbsp;&nbsp;:school: &nbsp;Estudiante de tercer año en [FIU](https://www.fiu.edu/) (Universidad Internacional de Florida) \
-&nbsp;&nbsp;&nbsp;:camera: &nbsp;Director de Relaciones con los Medios en [INIT at FIU](https://www.linkedin.com/company/init-fiu/) \
+&nbsp;&nbsp;&nbsp;:camera: &nbsp;Director de Relaciones con los Medios en [INIT at FIU](https://es.linkedin.com/company/init-fiu/) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amo la ciencia, la construcción y la innovación.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apasionado por el back-end y la confiabilidad del sitio.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Estudiando C, UNIX y SQL.\
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="mailto:rvela042@fiu.edu?subject=Mensajeando de GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/velasquezrobert/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://es.linkedin.com/in/velasquezrobert/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
 
