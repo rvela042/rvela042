@@ -1,94 +1,40 @@
-![Header](https://github.com/rvela042/rvela042/blob/main/github-header-image.png)
+<h2> Hey, I'm Robert!
+    <div style="width: 100px; height:40px; overflow: hidden; display: inline-block; margin-left: 10px; vertical-align: middle;">
+        <img src="https://i.pinimg.com/originals/fe/3e/a8/fe3ea82468b9ecde35a346cc2074de67.gif" style="object-fit: cover; width: 100%; height: 100%;">
+    </div>
+</h2>
 
-<table align="right">
- <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" height="13"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" height="13"> Español</a></td></tr>
- <tr><td><a href="README_jp.md"><img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" height="13"> 日本</a></td></tr>
+<img align='right' src="https://media.tenor.com/bJqzeXpOOnUAAAAC/galaxy-planets.gif" width="260" style="border-radius: 50%;">
 
-</table>
+<p><em>Software Engineer Student at <a href="https://www.fiu.edu/">Florida International University</a><img src="https://64.media.tumblr.com/40a4d0519a8b2c41945153db17e0790e/tumblr_mwivpwTa3P1qkgvd1o1_640.gif" width="40" style="vertical-align: middle; margin-left: 7px">
+</br>
+Executive Board Member at <a href="https://www.linkedin.com/company/init-fiu/">INIT @ FIU</a><img src="https://i.pinimg.com/originals/4f/7b/a0/4f7ba0e852e67829d3632a54a34bf207.gif" width="50" style="vertical-align: middle; margin-left: 7px">
+</em></p>
 
-### :space_invader: &nbsp;About Me
+##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/velasquezrobert/)
+[![CodeForces](https://img.shields.io/badge/CodeForces-Profile-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/rvela042)
+[![CSES](https://img.shields.io/badge/CSES-Profile-blue?style=flat-square)](https://cses.fi/user/200696)
+[![GitHub Rvela042](https://img.shields.io/github/followers/rvela042?label=follow&style=social)](https://github.com/rvela042)
 
-&nbsp;&nbsp;&nbsp;:school: &nbsp;Third-year student at [FIU](https://www.fiu.edu/) (Florida International University) \
-&nbsp;&nbsp;&nbsp;:camera: &nbsp;Director of Media Relations at [INIT at FIU](https://www.linkedin.com/company/init-fiu/) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love science, building, and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about Back-end and Site Reliability.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying C, UNIX, and SQL.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2022 and interning with Zillow Summer 2023.\
-&nbsp;&nbsp;&nbsp;:palm_tree: &nbsp;Based in Miami, FL .
+## <img src="https://64.media.tumblr.com/c3d64125c7d41480a0c5eaea8733eb03/tumblr_ow1spw2LxM1u7zo67o1_400.gif" width="50" style="margin-right: 2px; margin-left: 12px; vertical-align: middle;"> A little more about me...
 
-<p align="center">
-  <a href="mailto:rvela042@fiu.edu?subject=Messaging From GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/velasquezrobert/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
 
-<hr/>
+---
 
-<details>
-  <summary><b>:computer: &nbsp;Main tech knowledge:</b></summary>
-  <br/>
+```javascript
+const Robert = {
+  pronouns: "he" | "him",
+  code: [Python, Java, Javascript, Typescript, Kotlin],
+  tools: [React, Express, Node, Storybook, Styled-Components, Jest, Docker],
+  concepts: ["system design", "algorithms", "computational theory"],
+  techCommunities: {
+                        Executive: "INIT at FIU",
+                        Member: "Colorstack",
+                        Member: "Edlyft"
+                      },
+ challenge: "Learning React while improving my system design skills"
+}
+```
 
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;\
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;<br>
-![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
-![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp;
-![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;<br>
-![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;<br>
-![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;
-![DDD](https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![TDD](https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-
-</details>
-
-<details>
-  <summary><b>:brain: &nbsp;Other knowledge, but always learning:</b></summary>
-  <br/>
-
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
-![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;<br>
-![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;<br>
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
-
-</details>
-
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics:</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=rvela042&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rvela042&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvela042&langs_count=8&theme=nightowl&hide=html&hide_title=true&hide_border=true&layout=compact" />
-    </p>
-</details>
-
-### Check out what I'm listening to!
-<br/>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=robertvela123&cover_image=true&theme=novatorem&show_offline=false&background_color=c0c0c0&interchange=true&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=robertvela123&redirect=true)
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=rvela042&style=plastic&label=Views">
-</p>
+# <img src="https://i.pinimg.com/736x/c3/c1/0d/c3c10d463982aa9711d319bf987e2169.jpg" width="80" style="margin-right: 20px; margin-left: 5px; vertical-align: middle;"> <em><span style="font-size: 1.2em;">Lets connect! :)</span></em>
