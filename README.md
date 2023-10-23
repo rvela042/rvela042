@@ -18,7 +18,8 @@ Executive Board Member at <a href="https://www.linkedin.com/company/init-fiu/">I
 [![GitHub Rvela042](https://img.shields.io/github/followers/rvela042?label=follow&style=social)](https://github.com/rvela042)
 
 ## <img src="https://64.media.tumblr.com/c3d64125c7d41480a0c5eaea8733eb03/tumblr_ow1spw2LxM1u7zo67o1_400.gif" width="50" style="margin-right: 2px; margin-left: 12px; vertical-align: middle;"> A little more about me...
-
+<br>
+<br>
 
 ---
 
